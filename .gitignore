@@ -33,5 +33,5 @@ env/
 
 # Application specific
 settings.json
-screenshots/
+
 *.spec 
