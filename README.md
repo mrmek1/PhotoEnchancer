@@ -3,9 +3,9 @@
 A simple, open-source photo processing application that automatically enhances images in bulk by adjusting brightness, contrast, and saturation.
 
 <div class="image-comparison" style="position: relative; width: 100%; max-width: 600px; margin: 20px auto;">
-    <img src="screenshots/before.jpg" style="width: 100%;" alt="Before enhancement">
+    <img src="screenshots/Before.jpg" style="width: 100%;" alt="Before enhancement">
     <div class="comparison-overlay" style="position: absolute; top: 0; left: 0; width: 50%; height: 100%; overflow: hidden;">
-        <img src="screenshots/after.jpg" style="width: 200%;" alt="After enhancement">
+        <img src="screenshots/After.jpg" style="width: 200%;" alt="After enhancement">
     </div>
     <input type="range" class="comparison-slider" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; -webkit-appearance: none; background: none; cursor: pointer; margin: 0;" min="0" max="100" value="50">
 </div>
@@ -36,6 +36,6 @@ document.addEventListener('DOMContentLoaded', function() {
 ## Screenshots
 
 <div align="center">
-    <img src="screenshots/main_window.png" alt="Main application window" width="600"/>
+    <img src="screenshots/interface.png" alt="Main application window" width="600"/>
 </div>
 
