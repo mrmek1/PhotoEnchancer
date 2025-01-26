@@ -36,6 +36,6 @@ document.addEventListener('DOMContentLoaded', function() {
 ## Screenshots
 
 <div align="center">
-    <img src="screenshots/interface.png" alt="Main application window" width="600"/>
+    <img src="screenshots/Interface.png" alt="Main application window" width="600"/>
 </div>
 
